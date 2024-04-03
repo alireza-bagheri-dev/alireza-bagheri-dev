@@ -1,5 +1,6 @@
-### Hi there 👋
-It's Alireza Bagheri
+# Hi there 👋
+## Who am I?
+It's **Alireza Bagheri**
 
 👨‍💻 Developer
 - 🌱 I’m currently learning `GitHub`
