@@ -1,4 +1,13 @@
 ### Hi there 👋
+It's Alireza Bagheri
+
+👨‍💻 Developer
+- 🌱 I’m currently learning `GitHub`
+- 💻 I’m looking to collaborate on `Django` `Python`
+
+## Skills
+- Django
+- Python
 
 <!--
 **alireza-bagheri-dev/alireza-bagheri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
